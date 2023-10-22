@@ -4,6 +4,8 @@
 
 # **Website Brief for w3point0.com**
 
+> "At w3point0.com, our mission is to fuse innovation with expertise, crafting scalable and secure microservices for the ever-evolving digital landscape. As devoted System and Software Architects, we champion AI-driven No-Code BPM solutions, ensuring seamless integration and global reach. Through our commitment to Web 3.0 and emerging technologies, we aim to empower businesses, unite a community of open-source developers, and shape the future of technology."
+> 
 ---
 
 **Domain:** w3point0.com
