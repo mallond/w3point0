@@ -5,7 +5,17 @@
 **Mission**
 
 > "At w3point0.com, our mission is to fuse innovation with expertise, crafting scalable and secure microservices for the ever-evolving digital landscape. As devoted System and Software Architects, we champion AI-driven No-Code BPM solutions, ensuring seamless integration and global reach. Through our commitment to Web 3.0 and emerging technologies, we aim to empower businesses, unite a community of open-source developers, and shape the future of technology."
-> 
+
+**Values**
+> "CORE VALUES OF W3POINT0.COM:
+
+1. **Innovation:** Continuously push boundaries, embracing the latest in Web 3.0 and beyond.
+2. **Expertise:** Uphold a standard of excellence, leveraging our deep knowledge in software and system architecture.
+3. **Collaboration:** Foster a community of open-source developers, business partners, and talent, promoting shared growth and knowledge.
+4. **Integrity:** Ensure transparency, trustworthiness, and ethical practices in all our endeavors.
+5. **Scalability:** Commit to delivering solutions that grow alongside businesses, adapting to global needs and challenges.
+6. **Empowerment:** Equip businesses with the tools and knowledge to lead in their respective domains.
+7. **Future-Focused:** Stay ahead, anticipating the technological needs of tomorrow and addressing them today."
 ---
 
 **Domain:** w3point0.com
