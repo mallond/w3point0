@@ -1,0 +1,64 @@
+/* 
+Compile this file to css/custom_cOTLqNh7.css using any SCSS preprocessor. 
+More information here: https://slides.gitbook.io/manual/scss
+*/
+
+@import "mixins.scss"; 
+@import "variables.scss";
+@import "variables-custom.scss";
+
+/* Panel Top 14 */
+@keyframes pulse {
+        0% {
+            text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 15px #00FF00;
+        }
+        50% {
+            text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00, 0 0 30px #00FF00;
+        }
+        100% {
+            text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 15px #00FF00;
+        }
+    }
+
+/* Slide 01 (#1) */
+.typeIn span{
+  display: inline-block;
+  span{
+    opacity: 0;
+    display: inline-block;
+    transform: scale(1.2) translateY(-10px) !important;
+    transition-duration: 0s;
+  }
+}
+.slide:not(.active) .typeIn span span{
+  transition-delay: 0s !important;
+}
+.page-loaded:not(.resizing) .slide.active .typeIn span span{
+  transition-duration: 0.15s;
+  opacity: 1;
+  transform: scale(1) !important;
+}
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.flex-container h1 {
+  flex: 1;
+}
+.image-right {
+  max-width: 50%;
+  height: auto;
+  margin-left: 300px;
+}
+/* Mobile responsiveness */
+@media only screen and (max-width: 768px) {
+  .flex-container {
+    flex-direction: column;
+  }
+  .image-right {
+    max-width: 100%;
+    margin-left: 0;
+    margin-top: 10px;
+  }
+}
